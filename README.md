@@ -33,3 +33,13 @@ Today, I’m a **software engineer** working on web and mobile.
 I still build the same way:
 
 **Layer by layer—until it feels alive.**
+
+---
+
+## Let’s talk
+
+🐙 github.com/cheriftj
+
+💬 Always open to talk engineering, game design, learning, or the strange, beautiful process of turning imagination into something real.
+
+⭐ "Share what you learn. That's how we build the future, together."
