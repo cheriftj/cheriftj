@@ -2,37 +2,36 @@
 
 ### Software Engineer · World-builder at heart
 
----
+I didn’t start in the web. I came from 3D graphics and Augmented Reality, and I didn’t just study it. I lived in it. I built games, designed and animated characters, and crafted textures and 3D models. I shaped pixels, surfaces, and movement into things that felt alive. 
 
-## My Story
+For a long time, that was my entire universe.
 
-I didn’t start in the web. I came from **3D graphics and Augmented Reality**. I didn’t just study it—I lived in it. I built games, designed and animated characters, and created textures and 3D models. I worked with pixels, surfaces, and movement until they felt alive.
+My path into code started elsewhere. I worked with **Java, C#, C, and C++**: structured, typed, predictable systems. It was very different from the creative chaos I came from.
 
-For a long time, that was my world.
+Then one day in 2014, I got stuck (genuinely stuck) on a JavaScript callback problem.  
+I asked for help.
 
-My path into code started elsewhere. I worked with **Java, C#, C, and C++**—structured, typed, predictable systems. Very different from the creative chaos I came from.
+**I didn’t get it.**
 
-Then in **2014**, I got stuck on a **JavaScript callback** problem.
+And honestly, I didn’t understand the reaction either.  
+That moment stayed with me, but not in the way that person intended.
 
-I asked for help.  
-I didn’t get it.  
-I didn’t understand why.
+> "Share what you learn. That’s how we build the future, together."
 
-That moment stayed with me.
+I’ve always believed we should share everything we learn. That’s how humanity moves forward. Knowledge kept to yourself is knowledge wasted. 
 
-> I believe knowledge should be shared. That’s how we move forward. Knowledge kept to yourself is wasted.
+So I made a decision: I’d learn it on my own, and I’d learn it deeply.  
+I went straight to the source. I read every **W3C specification** I could get my hands on. When **HTTP/2** was announced, I studied every difference from HTTP/1.1. Not just what changed, but *why*. I dug into HTML5, CSS3, and the frameworks shaping the modern web. 
 
-So I decided to learn on my own—and go deep.
+I wasn’t just learning web development. **I was rebuilding my foundations from the ground up.**
 
-I went to the source. I read **W3C specifications**, studied **HTTP/2**, and worked through **HTML5**, **CSS3**, and modern frameworks.
+What started as one frustrating conversation turned into years of exploring specs, protocols, and systems, reshaping the way I think about software for good. 
 
-I wasn’t just learning web development. I was rebuilding my foundations.
+Today, I work as a software engineer in **Web and Mobile**.  
+But I never left that first world behind. The creator of textures and characters is still in me. 
 
-Today, I’m a **software engineer** working on web and mobile.
-
-I still build the same way:
-
-**Layer by layer—until it feels alive.**
+I just build software the way I used to build worlds:  
+**Layer by layer, until it feels alive.**
 
 ---
 
